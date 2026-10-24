@@ -1,0 +1,9 @@
+name: SheepPunch
+main: ch.alya.sheeppunch.SheepPunch
+version: 1.0.0
+author: Alya
+description: Punching a sheep drops 1 wool and shears it, like before Beta 1.7.
+permissions:
+  sheeppunch.use:
+    description: Get wool by punching sheep.
+    default: true
